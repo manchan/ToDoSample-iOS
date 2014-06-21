@@ -21,6 +21,7 @@
 		4DB9C8971955C18D00FB830B /* TodoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB9C8961955C18D00FB830B /* TodoTests.m */; };
 		4DB9C8A11955C19F00FB830B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DB9C8A01955C19F00FB830B /* Main.storyboard */; };
 		4DB9C8A41955C4A700FB830B /* TDSItemListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB9C8A31955C4A700FB830B /* TDSItemListViewController.m */; };
+		4DB9C8A71955C7C400FB830B /* TDSCreateItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB9C8A61955C7C400FB830B /* TDSCreateItemViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		4DB9C8A01955C19F00FB830B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
 		4DB9C8A21955C4A600FB830B /* TDSItemListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDSItemListViewController.h; sourceTree = "<group>"; };
 		4DB9C8A31955C4A700FB830B /* TDSItemListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDSItemListViewController.m; sourceTree = "<group>"; };
+		4DB9C8A51955C7C400FB830B /* TDSCreateItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDSCreateItemViewController.h; sourceTree = "<group>"; };
+		4DB9C8A61955C7C400FB830B /* TDSCreateItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDSCreateItemViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +119,8 @@
 				4DB9C8801955C18D00FB830B /* TDSAppDelegate.h */,
 				4DB9C8A21955C4A600FB830B /* TDSItemListViewController.h */,
 				4DB9C8A31955C4A700FB830B /* TDSItemListViewController.m */,
+				4DB9C8A51955C7C400FB830B /* TDSCreateItemViewController.h */,
+				4DB9C8A61955C7C400FB830B /* TDSCreateItemViewController.m */,
 				4DB9C8811955C18D00FB830B /* TDSAppDelegate.m */,
 				4DB9C8831955C18D00FB830B /* Images.xcassets */,
 				4DB9C8781955C18D00FB830B /* Supporting Files */,
@@ -250,6 +255,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DB9C8821955C18D00FB830B /* TDSAppDelegate.m in Sources */,
+				4DB9C8A71955C7C400FB830B /* TDSCreateItemViewController.m in Sources */,
 				4DB9C8A41955C4A700FB830B /* TDSItemListViewController.m in Sources */,
 				4DB9C87E1955C18D00FB830B /* main.m in Sources */,
 			);
