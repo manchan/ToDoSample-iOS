@@ -117,11 +117,11 @@
 			children = (
 				4DB9C8A01955C19F00FB830B /* Main.storyboard */,
 				4DB9C8801955C18D00FB830B /* TDSAppDelegate.h */,
+				4DB9C8811955C18D00FB830B /* TDSAppDelegate.m */,
 				4DB9C8A21955C4A600FB830B /* TDSItemListViewController.h */,
 				4DB9C8A31955C4A700FB830B /* TDSItemListViewController.m */,
 				4DB9C8A51955C7C400FB830B /* TDSCreateItemViewController.h */,
 				4DB9C8A61955C7C400FB830B /* TDSCreateItemViewController.m */,
-				4DB9C8811955C18D00FB830B /* TDSAppDelegate.m */,
 				4DB9C8831955C18D00FB830B /* Images.xcassets */,
 				4DB9C8781955C18D00FB830B /* Supporting Files */,
 			);
